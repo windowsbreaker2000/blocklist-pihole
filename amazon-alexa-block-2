@@ -8,7 +8,7 @@
 0.0.0.0 mmechocaptiveportal.com
 0.0.0.0 api.amazonalexa.com
 0.0.0.0 device-metrics-us.amazon.com
-0.0.0.0 fireoscaptiveportal.com
+### 0.0.0.0 fireoscaptiveportal.com
 0.0.0.0 arcus-uswest.amazon.com
 0.0.0.0 20c21bbc399f9ef2c91f0365d42531bf5023b70d32dbaf7f53f0b49d5110f72.us-east-1.prod.service.minerva.devices.a2z.com
 0.0.0.0 ntp-g7g.amazon.com
@@ -35,4 +35,7 @@
 0.0.0.0 dss-na.amazon.com
 0.0.0.0 a1rabvci4qcikc.us-east-1.prod.service.minerva.devices.a2z.com
 
-
+### Others 
+api.mobdro.to.lan
+api.mobdro.bz.lan
+0.0.0.0 api.mobdro.me.lan
